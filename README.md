@@ -11,7 +11,7 @@
 
 ### Overview of project
 
-##OBJECTIVE OF PROJECT
+## OBJECTIVE OF PROJECT
 Provide a simple and user-friendly command-line interface for performing basic arithmetic operations (addition, subtraction, multiplication, and division).
 
 Allow users to input two numbers and select an operation to compute the result.
